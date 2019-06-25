@@ -8,7 +8,7 @@
 ```
 
 ```bash
- coded with ES6. webpask, polyfill, babel. App fetch data from food2fork.com API.
+ coded with ES6. webpack, polyfill, babel, localStorage API. App fetch data from food2fork.com API.
 ```
 
 ---
@@ -16,6 +16,18 @@
 ### Clone
 
 - Clone this repo to your local machine using `https://github.com/KulovacNedim/forkify.git`
+
+---
+
+### Build
+
+- npm run build
+
+---
+
+### Run
+
+- npm run start
 
 ---
 
