@@ -1,0 +1,5 @@
+- Implement button to delete all shopping list items
+- Implement functionality to manually add items to shoppin list
+- Save shopping list data in local storage
+- Improve the ingredient parsing algorithm for calculating the amount of servings
+- Improve error handling
